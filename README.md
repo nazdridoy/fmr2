@@ -10,6 +10,8 @@ An Arduino sketch for robustly reading the balance and transaction history from 
 
 FMR2 is an unofficial, Opensource Arduino/ESP32 project designed for robustly reading data from the Dhaka MRT's FeliCa RapidPass card. It operates completely offline, ensuring your card data remains private and secure.
 
+![001](https://raw.githubusercontent.com/nazdridoy/fmr2/main/Previews/pv1.png)
+
 ## Features
 
 *   **Read Balance & History**: Instantly checks the card's current balance and the last 20 transactions.
@@ -35,6 +37,10 @@ Follow these steps to set up and use the FMR2 sketch:
 4.  **Upload the Sketch**: Connect your microcontroller to your computer and upload the `FMR2.ino` sketch.
 5.  **Open the Serial Monitor**: Open the Arduino IDE's Serial Monitor and set the baud rate to `115200`.
 6.  **Scan the Card**: Bring your Dhaka MRT RapidPass card close to the PN532 module. The card's balance and transaction history will be printed in the Serial Monitor.
+
+![002](https://raw.githubusercontent.com/nazdridoy/fmr2/main/Previews/pv2.jpg)
+
+![003](https://raw.githubusercontent.com/nazdridoy/fmr2/main/Previews/pv3.jpg)
 
 ## Disclaimer
 
