@@ -42,6 +42,12 @@ Follow these steps to set up and use the FMR2 sketch:
 
 ![003](https://raw.githubusercontent.com/nazdridoy/fmr2/main/Previews/pv3.jpg)
 
+
+## Libraries Used
+
+*   **PN532 Library**: [https://github.com/elechouse/PN532](https://github.com/elechouse/PN532)
+
+
 ## Disclaimer
 
 This is an unofficial tool provided for educational and personal use. It is not affiliated with, endorsed by, or connected in any way to the Dhaka Mass Transit Company Limited (DMTCL), JICA, or any related government entities. Use it at your own risk.
