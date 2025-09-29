@@ -52,9 +52,9 @@
   #include <PN532.h>
 
   // --- Hardware Setup (for Software Serial) ---
-  const int PN532_RX = 3; // To PN532's TX
-  const int PN532_TX = 2; // To PN532's RX
-  SoftwareSerial SWSerial(PN532_RX, PN532_TX);
+  const int PN532_RX = 2; // To PN532's RX
+  const int PN532_TX = 3; // To PN532's TX
+  SoftwareSerial SWSerial(PN532_TX, PN532_RX);
   PN532_SWHSU pn532swhsu(SWSerial);
   PN532 nfc(pn532swhsu);
 #endif
