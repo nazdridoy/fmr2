@@ -45,7 +45,8 @@ Follow these steps to set up and use the FMR2 sketch:
 
 ## Libraries Used
 
-*   **PN532 Library**: [https://github.com/elechouse/PN532](https://github.com/elechouse/PN532)
+*   **PN532 Library**: [https://github.com/Seeed-Studio/PN532](https://github.com/Seeed-Studio/PN532)
+*   **PN532 Library (Fork)**: [https://github.com/elechouse/PN532](https://github.com/elechouse/PN532)
 
 
 ## Disclaimer
